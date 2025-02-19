@@ -1,6 +1,6 @@
 **IRC(Internet Relay Chat)프로토콜을 구현한 채팅 서버** (2인 개발🙋🏻‍♀️🙋🏻‍♀️)  <br>
-2023-09.20 ~ 10.19
-
+2023-09.20 ~ 10.19 <br>
+`c++98` `Makefile` `kqueue` `TCP/IP`
 
 # Internet Relay Chat
 Internet Relay Chat or IRC is a text-based communication protocol on the Internet.
