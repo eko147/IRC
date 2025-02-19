@@ -1,10 +1,10 @@
 
-<img src="https://velog.velcdn.com/images/meliesfi/post/5fbdd246-2da6-4700-a2b9-0fabd97f3c38/image.png" width="1000"/>
+
 
 **IRC(Internet Relay Chat)프로토콜을 구현한 채팅 서버** (2인 개발🙋🏻‍♀️🙋🏻‍♀️)  <br>
 2023-09.20 ~ 10.19 <br>
 `c++98` `Makefile` `kqueue` `TCP/IP`
-
+<img src="https://velog.velcdn.com/images/meliesfi/post/5fbdd246-2da6-4700-a2b9-0fabd97f3c38/image.png" width="1000"/>
 
 
 # Internet Relay Chat
